@@ -3,14 +3,14 @@
  */
 
 // Colors
-$color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
+$color-base: #260c1a;
+$color-primary: #c5d86d;
+$color-secondary: #f05d23;
 
-$color-white: #FFF;
-$color-gray: lighten($color-base, 40%);
-$color-gray-border: lighten($color-base, 77%);
-$color-gray-bg: lighten($color-base, 79%);
+$color-white: #f7f7f2;
+$color-gray: lighten($color-base, 5%);
+$color-gray-border: lighten($color-base, 5%);
+$color-gray-bg: lighten($color-base, 5%);
 
 // Typographic
 $typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
